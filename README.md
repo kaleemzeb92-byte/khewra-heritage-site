@@ -8,5 +8,4 @@ Official homepage for **KHEWRA HERITAGE™**, the authentic Himalayan pink salt 
 - Heritage story and sustainability pillars
 - Responsive design for mobile and desktop
 
-## Live Site
-Visit: https://yourusername.github.io/khewra-heritage-site
+
